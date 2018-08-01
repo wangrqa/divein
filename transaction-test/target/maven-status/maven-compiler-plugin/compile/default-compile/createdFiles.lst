@@ -1,0 +1,8 @@
+com/lazytop/transtest/domain/SysRegion.class
+com/lazytop/transtest/domain/SysRegionExample$Criteria.class
+com/lazytop/transtest/domain/SysRegionExample$GeneratedCriteria.class
+com/lazytop/transtest/mappers/PhoneNumberBelongMapper.class
+com/lazytop/transtest/mappers/SysRegionMapper.class
+com/lazytop/transtest/domain/PhoneNumberBelong.class
+com/lazytop/transtest/domain/SysRegionExample.class
+com/lazytop/transtest/domain/SysRegionExample$Criterion.class
