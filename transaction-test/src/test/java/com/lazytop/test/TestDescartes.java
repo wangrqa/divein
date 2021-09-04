@@ -1,4 +1,4 @@
-package com.example.test01;
+package com.lazytop.test;
 
 import java.util.*;
 import java.util.function.Function;
